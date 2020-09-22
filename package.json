@@ -1,0 +1,9 @@
+{
+  "name": "chat-box",
+  "version": "1.0.0",
+  "description": "a web based chat app using websockets and docker",
+  "main": "app.js",
+  "author": "Kim Fasbender",
+  "license": "MIT",
+  "private": true
+}
